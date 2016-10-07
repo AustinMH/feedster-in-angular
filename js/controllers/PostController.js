@@ -21,5 +21,5 @@ app.controller('PostController', ['$scope', function($scope) {
         text: 'I used to have a recurring dream when I was younger.'
       }
     }
-  ]  
+  ];  
 }]);
