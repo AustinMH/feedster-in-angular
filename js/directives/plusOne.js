@@ -5,7 +5,7 @@ app.directive('plusOne', function() {
     link: function(scope, element, array) {
       scope.like = function() {
         element.toggleClass('btn-like');
-      }
+      };
     }
   };
 });
